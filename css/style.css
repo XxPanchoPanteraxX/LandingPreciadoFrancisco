@@ -6,10 +6,10 @@
 
 header{
 	text-align: center;
-	background-color: #BCF0BA;
+	background-color: #62B4B1;
 	border-bottom: 3px solid #E3A622;
 	height: 100px;
-	color: #1F819E;
+	color: #DE4A2A;
 }
 
 nav{
@@ -26,7 +26,7 @@ nav{
 }
 
 nav div{
-	background-color: #fe9393;
+	background-color: #566D78;
 	border-bottom: 1px solid #E3A622;
 	padding-left: 3px;
 	margin-bottom: 1px;
@@ -35,7 +35,7 @@ nav div{
 }
 
 nav div:hover{
-	background-color: #E3A622;
+	background-color: #B0AFA6;
 }
 
 nav a{
@@ -79,7 +79,7 @@ main{
 #contenido{
 	width: 70%;
 	margin: auto;
-	background-color: #6FA3A1;
+	background-color: #B0AFA6;
 	border-radius: 5px;	
 	padding-top: 5px;
 	padding-bottom: 5px;
