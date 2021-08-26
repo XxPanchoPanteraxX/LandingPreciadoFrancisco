@@ -6,7 +6,7 @@
 
 header{
 	text-align: center;
-	background-color: #38FA32;
+	background-color: #62B4B1;
 	border-bottom: 3px solid #E3A622;
 	height: 100px;
 	color: #DE4A2A;
@@ -26,7 +26,7 @@ nav{
 }
 
 nav div{
-	background-color: #FDA326;
+	background-color: #566D78;
 	border-bottom: 1px solid #E3A622;
 	padding-left: 3px;
 	margin-bottom: 1px;
@@ -35,7 +35,7 @@ nav div{
 }
 
 nav div:hover{
-	background-color: #E3A622;
+	background-color: #B0AFA6;
 }
 
 nav a{
@@ -70,7 +70,7 @@ main{
 	left: 201px;
 	height: calc(100% - 103px);
 	width: calc(100% - 201px);
-	background-color: #F8F6E5;
+	background-color: #FFFFFF;
 	text-align: center;
 	padding-top: 20px;
 }
@@ -79,7 +79,7 @@ main{
 #contenido{
 	width: 70%;
 	margin: auto;
-	background-color: #8DE650;
+	background-color: #B0AFA6;
 	border-radius: 5px;	
 	padding-top: 5px;
 	padding-bottom: 5px;
