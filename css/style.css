@@ -6,10 +6,10 @@
 
 header{
 	text-align: center;
-	background-color: #38FA32;
+	background-color: #BCF0BA;
 	border-bottom: 3px solid #E3A622;
 	height: 100px;
-	color: #DE4A2A;
+	color: #1F819E;
 }
 
 nav{
@@ -26,7 +26,7 @@ nav{
 }
 
 nav div{
-	background-color: #FDA326;
+	background-color: #fe9393;
 	border-bottom: 1px solid #E3A622;
 	padding-left: 3px;
 	margin-bottom: 1px;
@@ -70,7 +70,7 @@ main{
 	left: 201px;
 	height: calc(100% - 103px);
 	width: calc(100% - 201px);
-	background-color: #F8F6E5;
+	background-color: #FFFFFF;
 	text-align: center;
 	padding-top: 20px;
 }
@@ -79,7 +79,7 @@ main{
 #contenido{
 	width: 70%;
 	margin: auto;
-	background-color: #8DE650;
+	background-color: #6FA3A1;
 	border-radius: 5px;	
 	padding-top: 5px;
 	padding-bottom: 5px;
